@@ -7,3 +7,4 @@ git add modify2
 git push directly
 git testGit3
 git test developer
+git add dev
