@@ -8,3 +8,6 @@ git push directly
 git testGit3
 git test developer
 git test issue
+git test DEV
+git test developer
+master: test stash
