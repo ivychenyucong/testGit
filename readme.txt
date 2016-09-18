@@ -7,3 +7,5 @@ git add modify2
 git push directly
 git testGit3
 git test DEV
+git test developer
+master: test stash
